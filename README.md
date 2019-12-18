@@ -5,4 +5,5 @@ A program to display a menu:
 3. Add new star
 4. Remove
 5. Quit
+
 Ranks Hollywood stars' salary. Implementing Binary Search Tree
