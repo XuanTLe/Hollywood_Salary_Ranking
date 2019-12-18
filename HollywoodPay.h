@@ -1,6 +1,6 @@
 #pragma once
-#ifndef _EMPLOYEEINFO_
-#define _EMPLOYEEINFO_
+#ifndef _HOLLYWOODPAY_
+#define _HOLLYWOODPAY_
 #include <iostream>
 #include <string>
 
